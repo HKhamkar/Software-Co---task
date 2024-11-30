@@ -1,0 +1,77 @@
+{
+  "greeting": "Bonjour, bienvenue !",
+  "description": {
+    "line1": "Comment vas-tu ?",
+    "line2": "bien merci"
+  },
+  "sideBar": {
+    "dashboard": "Tableau de bord",
+    "projects": "Projets",
+    "estimates": "Estimations",
+    "logout": "Déconnexion"
+  },
+  "dashboard": {
+    "dashboard": "Tableau de bord",
+    "totalUser": "Nombre total d'utilisateurs",
+    "upFromYesterday": "8.5% En hausse par rapport à hier",
+    "totalOrder": "Commande totale",
+    "upFromPastWeek": "1.3% En hausse par rapport à la semaine dernière",
+    "totalSales": "Ventes totales",
+    "downFromYesterday": "4.3% En baisse par rapport à hier",
+    "totalPending": "En baisse par rapport à hier",
+    "salesDetails": "Détails de vente"
+  },
+  "navbar": {
+    "admin": "Administratrice",
+    "search": "recherches"
+  },
+  "projects": {
+    "projects": "Projets",
+    "addProject": "Ajouter un projet",
+    "filterBy": "Filtrer par",
+    "hideColumns": "Masquer les colonnes",
+    "customer": "Cliente",
+    "dueDate": "Date d'échéance",
+    "projectName": "Nom du projet",
+    "resetFilters": "Réinitialiser les filtres",
+    "ID": "IDAHO",
+    "Customer": "CLIENTE",
+    "RefNumber": "NUMÉRO DE RÉFÉRENCE",
+    "ProjectName": "NOM DU PROJET",
+    "ProjectNumber": "NUMÉRO DE PROJET",
+    "AreaLocation": "LOCALISATION DE LA ZONE",
+    "Address": "ADRESSE",
+    "DueDate": "DATE D'ÉCHÉANCE",
+    "Action": "ACTION"
+  },
+  "addEditProject": {
+    "addNewProject": "Ajouter un nouveau projet",
+    "editProject": "Modifier le projet",
+    "customer": "Cliente",
+    "referenceNumber": "Numéro de référence",
+    "enterYourReferenceNumber": "Entrez votre numéro de référence",
+    "projectName": "Nom du projet",
+    "enterYourProjectName": "Entrez le nom de votre projet",
+    "projectNumber": "Numéro de projet",
+    "enterYourProjectNumber": "Entrez votre numéro de projet",
+    "areaLocation": "Localisation de la zone",
+    "enterYourProjectAreaLocation": "Entrez l'emplacement de votre zone de projet",
+    "Address": "Adresse",
+    "enterYourProjectAddress": "Entrez l'adresse de votre projet",
+    "dueDate": "Date d'échéance",
+    "selectDueDate": "Sélectionnez la date d'échéance",
+    "contact": "Contact",
+    "enterYourContact": "Entrez votre contact",
+    "manager": "Directrice",
+    "selectProjectManager": "Sélectionnez le chef de projet",
+    "staff": "Personnelle",
+    "selectProjectStaff": "Sélectionnez le personnel du projet",
+    "status": "Statut",
+    "selectProjectStatus": "Sélectionnez le statut du projet",
+    "email": "E-mail",
+    "enterYourEmail": "Entrez votre email",
+    "addNow": "Ajouter maintenant",
+    "cancel": "Annuler",
+    "editNow": "Modifier maintenant"
+  }
+}

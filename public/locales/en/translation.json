@@ -1,0 +1,77 @@
+{
+  "greeting": "Hello, Welcome!",
+  "description": {
+    "line1": "How are you ?",
+    "line2": "Fine thanks"
+  },
+  "sideBar": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "estimates": "Estimates",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "dashboard": "Dashboard",
+    "totalUser": "Total User",
+    "upFromYesterday": "8.5% Up from yesterday",
+    "totalOrder": "Total Order",
+    "upFromPastWeek": "1.3% Up from past week",
+    "totalSales": "Total Sales",
+    "downFromYesterday": "4.3% Down from yesterday",
+    "totalPending": "Total Pending",
+    "salesDetails": "Sales Details"
+  },
+  "navbar": {
+    "admin": "Admin",
+    "search": "Search"
+  },
+  "projects": {
+    "projects": "Projects",
+    "addProject": "Add Project",
+    "filterBy": "Filter By",
+    "hideColumns": "Hide Columns",
+    "customer": "Customer",
+    "dueDate": "Due Date",
+    "projectName": "Project Name",
+    "resetFilters": "Reset Filters",
+    "ID": "ID",
+    "Customer": "CUSTOMER",
+    "RefNumber": "REF NUMBER",
+    "ProjectName": "PROJECT NAME",
+    "ProjectNumber": "PROJECT NUMBER",
+    "AreaLocation": "AREA LOCATION",
+    "Address": "ADDRESS",
+    "DueDate": "DUE DATE",
+    "Action": "ACTION"
+  },
+  "addEditProject": {
+    "addNewProject": "Add New Project",
+    "editProject": "Edit Project",
+    "customer": "Customer",
+    "referenceNumber": "Reference Number",
+    "enterYourReferenceNumber": "Enter your reference number",
+    "projectName": "Project Name",
+    "enterYourProjectName": "Enter your project name",
+    "projectNumber": "Project Number",
+    "enterYourProjectNumber": "Enter your project number",
+    "areaLocation": "Area Location",
+    "enterYourProjectAreaLocation": "Enter your project area location",
+    "Address": "Address",
+    "enterYourProjectAddress": "Enter your project address",
+    "dueDate": "Due Date",
+    "selectDueDate": "Select Due Date",
+    "contact": "Contact",
+    "enterYourContact": "Enter your contact",
+    "manager": "Manager",
+    "selectProjectManager": "Select project manager",
+    "staff": "Staff",
+    "selectProjectStaff": "Select project staff",
+    "status": "Status",
+    "selectProjectStatus": "Select project status",
+    "email": "Email",
+    "enterYourEmail": "Enter your email",
+    "addNow": "Add Now",
+    "cancel": "Cancel",
+    "editNow": "Edit Now"
+  }
+}

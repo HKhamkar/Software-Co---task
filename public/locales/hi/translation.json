@@ -1,0 +1,77 @@
+{
+  "greeting": "नमस्ते, स्वागत है!",
+  "description": {
+    "line1": "आप कैसे हैं ?",
+    "line2": "ठीक है, धन्यवाद"
+  },
+  "sideBar": {
+    "dashboard": "डैशबोर्ड",
+    "projects": "परियोजनाओं",
+    "estimates": "अनुमान",
+    "logout": "लॉग आउट"
+  },
+  "dashboard": {
+    "dashboard": "डैशबोर्ड",
+    "totalUser": "कुल उपयोगकर्ता",
+    "upFromYesterday": "8.5% कल से ऊपर",
+    "totalOrder": "कल से ऊपर",
+    "upFromPastWeek": "1.3% पिछले सप्ताह से ऊपर",
+    "totalSales": "कुल बिक्री",
+    "downFromYesterday": "4.3% कल से नीचे",
+    "totalPending": "कुल लंबित",
+    "salesDetails": "बिक्री विवरण"
+  },
+  "navbar": {
+    "admin": "एडमिन",
+    "search": "खोज"
+  },
+  "projects": {
+    "projects": "परियोजनाओं",
+    "addProject": "प्रोजेक्ट जोड़ें",
+    "filterBy": "फिल्टर के द्वारा",
+    "hideColumns": "कॉलम छिपाएं",
+    "customer": "ग्राहक",
+    "dueDate": "नियत तारीख",
+    "projectName": "परियोजना का नाम",
+    "resetFilters": "फ़िल्टर रीसेट करें",
+    "ID": "पहचान",
+    "Customer": "ग्राहक",
+    "RefNumber": "संदर्भ संख्या",
+    "ProjectName": "परियोजना का नाम",
+    "ProjectNumber": "परियोजना संख्या",
+    "AreaLocation": "क्षेत्र स्थान",
+    "Address": "पता",
+    "DueDate": "नियत तारीख",
+    "Action": "कार्रवाई"
+  },
+  "addEditProject": {
+    "addNewProject": "नया प्रोजेक्ट जोड़ें",
+    "editProject": "प्रोजेक्ट संपादित करें",
+    "customer": "ग्राहक",
+    "referenceNumber": "संदर्भ संख्या",
+    "enterYourReferenceNumber": "अपना संदर्भ नंबर दर्ज करें",
+    "projectName": "परियोजना का नाम",
+    "enterYourProjectName": "अपना प्रोजेक्ट नाम दर्ज करें",
+    "projectNumber": "परियोजना संख्या",
+    "enterYourProjectNumber": "अपना प्रोजेक्ट नंबर दर्ज करें",
+    "areaLocation": "क्षेत्र स्थान",
+    "enterYourProjectAreaLocation": "अपना प्रोजेक्ट क्षेत्र स्थान दर्ज करें",
+    "Address": "पता",
+    "enterYourProjectAddress": "अपना प्रोजेक्ट पता दर्ज करें",
+    "dueDate": "नियत तारीख",
+    "selectDueDate": "नियत तिथि चुनें",
+    "contact": "संपर्क",
+    "enterYourContact": "अपना संपर्क दर्ज करें",
+    "manager": "प्रबंधक",
+    "selectProjectManager": "प्रोजेक्ट मैनेजर चुनें",
+    "staff": "कर्मचारी",
+    "selectProjectStaff": "परियोजना स्टाफ का चयन करें",
+    "status": "स्थिति",
+    "selectProjectStatus": "प्रोजेक्ट स्थिति चुनें",
+    "email": "ईमेल",
+    "enterYourEmail": "अपना ईमेल दर्ज करें",
+    "addNow": "अभी जोड़ें",
+    "cancel": "रद्द करना",
+    "editNow": "अभी संपादित करें"
+  }
+}
